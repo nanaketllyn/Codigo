@@ -1,0 +1,10 @@
+Acc: 0.5 Sen: 1.0 Esp: 0.0 Conv1: 79 Conv2: 23 Hidden: 76 Fitness: 2.5
+Acc: 0.5 Sen: 0.0 Esp: 1.0 Conv1: 81 Conv2: 24 Hidden: 9 Fitness: 1.5
+Acc: 0.5 Sen: 1.0 Esp: 0.0 Conv1: 75 Conv2: 46 Hidden: 91 Fitness: 2.5
+Acc: 0.5 Sen: 0.0 Esp: 1.0 Conv1: 19 Conv2: 47 Hidden: 27 Fitness: 1.5
+Acc: 0.5 Sen: 1.0 Esp: 0.0 Conv1: 56 Conv2: 1 Hidden: 87 Fitness: 2.5
+Acc: 0.5 Sen: 0.0 Esp: 1.0 Conv1: 24 Conv2: 17 Hidden: 73 Fitness: 1.5
+Acc: 0.5 Sen: 0.0 Esp: 1.0 Conv1: 24 Conv2: 1 Hidden: 87 Fitness: 1.5
+Acc: 0.5 Sen: 0.0 Esp: 1.0 Conv1: 75 Conv2: 46 Hidden: 91 Fitness: 1.5
+Acc: 0.5 Sen: 0.0 Esp: 1.0 Conv1: 56 Conv2: 1 Hidden: 87 Fitness: 1.5
+Acc: 0.5 Sen: 0.0 Esp: 1.0 Conv1: 75 Conv2: 46 Hidden: 91 Fitness: 1.5

@@ -1,0 +1,9 @@
+Model's Log: 
+
+Epochs: 30
+Image Size: 28
+Batch Size: 30
+Train Samples: 20288
+Test Samples: 1343
+
+Training and Validation:
